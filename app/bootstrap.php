@@ -1,9 +1,9 @@
 <?php
     //DB Param
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'root');
-    define('DB_PASS', '123456');
-    define('DB_NAME', 'share_posts');
+    define('DB_USER', '_YOUR_DB_USER_');
+    define('DB_PASS', '_YOUR_DB_PWD_');
+    define('DB_NAME', '_YOUR_DB_NAME_');
 
     //Load config file 
     require_once 'config/config.php';
