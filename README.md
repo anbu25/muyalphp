@@ -1,2 +1,2 @@
-# muyalphp
+# muyal->php
 Tiny php framework
